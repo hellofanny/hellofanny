@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2> Hi there <img src="https://media.giphy.com/media/Dr3zmLbgSghPr2Qqlf/giphy.gif" width="50"></h2>
+
+I'm Fanny! I currently work as Front End Developer.
+
+
+
+✨You can also find me on [Instagram](https://www.instagram.com/abitfanny) and [Codepen](https://codepen.io/hellofanny)
+
+
+
+ . 
 
 <!--
 **hellofanny/hellofanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
