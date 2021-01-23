@@ -1,10 +1,8 @@
-<h2> Hi there <img src="https://media.giphy.com/media/Dr3zmLbgSghPr2Qqlf/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Fanny.<img src="https://media.giphy.com/media/Dr3zmLbgSghPr2Qqlf/giphy.gif" width="50"></h2>
 
-I'm Fanny! I currently work as Front End Developer.
+👩🏻‍💻 I currently work as Front End Developer. 
 
-
-
-✨You can also find me on [Instagram](https://www.instagram.com/abitfanny) and [Codepen](https://codepen.io/hellofanny).
+✨ You can also find me on [Instagram](https://www.instagram.com/abitfanny) and [Codepen](https://codepen.io/hellofanny).
  
 
 <!--
