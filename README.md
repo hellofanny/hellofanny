@@ -1,6 +1,6 @@
 <h2> Hi there,‌‌ I'm Fanny.<img src="https://media.giphy.com/media/Dr3zmLbgSghPr2Qqlf/giphy.gif" width="50"></h2>
 
-<!-- ![](https://komarev.com/ghpvc/?username=hellofanny&color=1F1F1F) -->
+<!-- ![](https://komarev.com/ghpvc/?username=hellofanny&color=yellow) -->
 
 👩🏻‍💻 ‌‌ I'm currently work as a Front End Developer at @guavasoftware. 
 
