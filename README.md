@@ -3,7 +3,6 @@
 👩🏻‍💻 ‌‌ I'm currently work as a Front End Developer at @guavasoftware. 
 
 ✨‌‌ You can also find me on [Instagram](https://www.instagram.com/abitfanny) and [Codepen](https://codepen.io/hellofanny).
- 
 
 <!--
 **hellofanny/hellofanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
