@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=hellofanny&color=yellow) -->
 
-👩🏻‍💻 ‌‌ I'm currently working as a Front End Developer at @guavasoftware. 
+👩🏻‍💻 ‌‌ I'm currently working as a Software Engineer at @vtex. 
 
 ✨‌‌ You can also find me on [Instagram](https://www.instagram.com/abitfanny) and [Codepen](https://codepen.io/hellofanny).
 
