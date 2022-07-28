@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=hellofanny&color=yellow) -->
 
-👩🏻‍💻 ‌‌ I'm currently working as a Software Engineer at @vtex. 
+👩🏻‍💻 ‌‌ I'm currently working as a Software Engineer at [@vtex](https://github.com/vtex). 
 
 ✨‌‌ You can also find me on [Instagram](https://www.instagram.com/abitfanny) and [Codepen](https://codepen.io/hellofanny).
 
